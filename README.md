@@ -1,7 +1,6 @@
 ## Hi, there! I'm Nastya
 I'm student in ISU, arter and designeer.<br/>
 I can make posters, illustrations, and I'm learning how to make website layouts and designs.<br/>
-I'm learning languages:<br/>![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 Programming languages that I know/learn:<br/>
 
