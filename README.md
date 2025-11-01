@@ -20,7 +20,7 @@ I can make posters, illustrations, and I'm learning how to make website layouts 
 
 ### You can view examples of my work here:
 
-* My arts: (ссылка на репозиторий)
+* My arts: [my arts repositori](https://github.com/anastasiyaaivanova12-prog/arts 'arts')
 * My posters: (ссылка на репозиторий)
 * My website designs: (ссылка на репозиторий)
 
