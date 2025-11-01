@@ -1,4 +1,4 @@
-## Hi, there! I'm Nastya :D
+# Hi, there! I'm Nastya :D
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+Arter+Designeer)](https://git.io/typing-svg)<br/>
 I'm student in ISU, arter and designeer.<br/>
 I can make posters, illustrations, and I'm learning how to make website layouts and designs.<br/>
