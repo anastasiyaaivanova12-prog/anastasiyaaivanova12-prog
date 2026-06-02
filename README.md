@@ -27,7 +27,7 @@ Twine
 ### You can view examples of my work here:
 
 * My arts: [my arts repositori](https://github.com/anastasiyaaivanova12-prog/arts 'arts')
-* My programms: (ссылка на репозиторий)
+* My portfolio: [my programms repositori](https://github.com/anastasiyaaivanova12-prog/my_programms)
 
 ### Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
