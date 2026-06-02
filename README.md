@@ -28,7 +28,7 @@ Twine
 
 * My arts: [my arts repositori](https://github.com/anastasiyaaivanova12-prog/arts 'arts')
 * My portfolio: [my programms repositori](https://github.com/anastasiyaaivanova12-prog/my_programms)
-* My animation video: [animation](https://drive.google.com/file/d/1xOTmoerbMsl5uNYyxtQDbcEh2MrzJnPJ/view?usp=sharing)
+* My animation video: [The sense of time](https://drive.google.com/file/d/1xOTmoerbMsl5uNYyxtQDbcEh2MrzJnPJ/view?usp=sharing)
 * My visual novel: [one night]
 
 ### Statistics
