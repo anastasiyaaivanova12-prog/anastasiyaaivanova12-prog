@@ -29,13 +29,13 @@ Twine
 * My arts: [my arts repositori](https://github.com/anastasiyaaivanova12-prog/arts 'arts')
 * My portfolio: [my programms repositori](https://github.com/anastasiyaaivanova12-prog/my_programms)
 * Visual novel: [Оne night](https://github.com/anastasiyaaivanova12-prog/ONEEVENING)<br/>
+* My short animation video: [The sense of time](https://drive.google.com/file/d/1xOTmoerbMsl5uNYyxtQDbcEh2MrzJnPJ/view?usp=sharing)<br/>
 Some frames from the novel:
 <img width="2560" height="1440" alt="IMG_5984 1" src="https://github.com/user-attachments/assets/67c91aef-292c-437d-aa75-47e35b38e3c7" />
 <img width="2560" height="1440" alt="IMG_6008 1" src="https://github.com/user-attachments/assets/438386e3-fa70-4a0b-b07e-5cd47be208a0" />
 <img width="2560" height="1440" alt="IMG_5985 1" src="https://github.com/user-attachments/assets/e725656a-73d4-4e1c-9dcb-fe3acce92d35" />
 <img width="2560" height="1440" alt="IMG_6004 1" src="https://github.com/user-attachments/assets/11984333-d572-490d-8451-4d998e20c6b2" />
 <br/>
-* My short animation video: [The sense of time](https://drive.google.com/file/d/1xOTmoerbMsl5uNYyxtQDbcEh2MrzJnPJ/view?usp=sharing)<br/>
 Some frames from the animation:
 <img width="1363" height="650" alt="Снимок экрана 2026-06-02 110055" src="https://github.com/user-attachments/assets/d9d9afcf-e191-42ec-8937-678a9342d619" />
 <img width="1723" height="770" alt="Снимок экрана 2026-06-02 110142" src="https://github.com/user-attachments/assets/e01b4e16-654e-40a5-a37a-1364d364d26e" />
